@@ -1,0 +1,12 @@
+.hoge {
+  width: 500px;
+}
+.hoge .title {
+  font-size: 20em;
+}
+.hoge .photo {
+  float: left;
+}
+.hoge .photo .caption {
+  font-size: 1em;
+}
